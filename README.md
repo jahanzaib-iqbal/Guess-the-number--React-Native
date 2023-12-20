@@ -1,1 +1,1 @@
-This is Number Guessing React Natve Game with Interactive UI
+Number Guessing React Natve App with Interactive UI
